@@ -1,3 +1,2 @@
-# ImageDongeon-frontend
-The frontend for ImageDongeon, written in React.
-
+# React & TailWindCSS boilerplate
+My personal boilerplate for React.js with TailWindCSS.
