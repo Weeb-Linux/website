@@ -6,19 +6,13 @@ import SearchBar from '../SearchBar'
 const Header = () => {
 	return (
 		<header className="bg-gray-700 text-white px-4 py-2 flex items-center">
-			<div className="text-2xl mr-8">NameHere</div>
+			<div className="text-2xl mr-8">Weeb/Linux</div>
 
 			<nav className="site-nav text-white">
-				<a href="#">Home</a>
-				<a href="#">Some</a>
-				<a href="#">Nav</a>
-				<a href="#">Bar</a>
-				<a href="#">Items</a>
+				<Link href="/"><a>Home</a></Link>
+				<Link href="/about"><a>About us</a></Link>
+				<Link href="/people"><a>People</a></Link>
 			</nav>
-
-			<div className="ml-auto">
-				<SearchBar />
-			</div>
 		</header>
 	)
 }

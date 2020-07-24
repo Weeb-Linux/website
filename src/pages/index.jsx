@@ -5,7 +5,8 @@ const index = ({ data }) => {
 	return ( 
 	<Layout>
 		<div className="container text-center">
-			<h1>Much layout such wow</h1>
+			<p className="mb-0 text-5xl">Weeb/Linux Team</p>
+			<p className="text-lg">Weebs that uses Linux.</p>
 		</div>
 	</Layout>
 	)
