@@ -1,2 +1,3 @@
-# react-tailwindcss-boilerplate
-My personal boilerplate for React.js with TailWindCSS.
+# ImageDongeon-frontend
+The frontend for ImageDongeon, written in React.
+
