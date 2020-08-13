@@ -11,10 +11,11 @@ const index = ({ data }) => {
                               <div className="text-center p-4">
                                     <img className="mx-auto w-24 rounded-full border-black border-solid border-2" src="/imgs/wello6143.jpg"/>
                                     <p className="text-xl pt-2 mb-0">Wello6143</p>
-                                    <p className="text-xs">Founder</p>
+                                    <p className="text-xs">Co-Founder</p>
                                     <p className="mb-0">Projects</p>
                                     <ul className="list-none">
                                           <li className="text-sm">Wavey</li>
+                                          <li className="text-sm">uwuNetwork</li>
                                     </ul>
                               </div>
                         </div>
